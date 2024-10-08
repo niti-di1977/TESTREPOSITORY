@@ -11,19 +11,19 @@ public interface GooglePay {
 	
      //Somebody wants to add some more functionality to this interface as per the requirement
 	
-	default void details()
-	{
-		
-		//implementation
-	}
-	
 	default void details1()
 	{
 		
 		//implementation
 	}
 	
-	static void transaction()
+	default void details2()
+	{
+		
+		//implementation
+	}
+	
+	static void transaction1()
 	{
 		
 		
