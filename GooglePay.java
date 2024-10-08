@@ -28,6 +28,13 @@ public interface GooglePay {
 		
 		
 	}
+
+	static void transaction2()
+	{
+		
+		// for transaction Purpose
+	}
+
 }
 
 class Vendors
